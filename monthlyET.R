@@ -1,3 +1,7 @@
+#I just made this comment -Mickey
+
+
+
 #Read in file
 datatable <- read.csv('/Users/Zach/Desktop/RB_GIRF_C - Evapotrans_ETr - Evapotranspiration, potential.csv')
 values <- datatable$Value
